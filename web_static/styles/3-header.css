@@ -6,7 +6,7 @@ header {
     border-bottom: 1px solid #CCCCCC;
     align-items: center;
 }
-header .logo {
+header .lg {
     width: 142px;
     height: 60px;
     background: url("../images/logo.png") no-repeat center;
